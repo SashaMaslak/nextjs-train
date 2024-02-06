@@ -6,7 +6,7 @@ const CarPage: NextPage = () => {
   console.log(`replace:`, replace)
   console.log(`push:`, push)
 
-  return <div>Enter</div>
+  return <div>111</div>
 }
 
 export default CarPage
